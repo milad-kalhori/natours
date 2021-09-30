@@ -1,3 +1,2 @@
-# smart-store
+# natours
 Back-End : Node js
-Front-End : React js
