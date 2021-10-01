@@ -1,2 +1,2 @@
 # natours
-Back-End : Node js
+Built using modern technologies : Node js
